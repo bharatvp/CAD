@@ -1,7 +1,7 @@
 
 # CAD Designer: 2D & 3D CAD Mini-Project
 
-This is a complete ready‑to‑upload GitHub project demonstrating:
+
 - Basic 2D CAD drawing generation (DXF)
 - Basic 3D CAD model creation (STL)
 - A Python script that loads, displays, and exports simple CAD geometry
